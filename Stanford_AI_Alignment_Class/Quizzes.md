@@ -10,14 +10,14 @@ Which of the following is NOT a reason that forecasting AI capabilities can be u
 * [ ] To mitigate potential risks from advanced AI systems
 
 What is one limitation of using the Turing Test as a measure of artificial general intelligence (AGI)?
-* [ ] It focuses only on evaluating a narrow range of linguistic tasks
+* [x] It focuses only on evaluating a narrow range of linguistic tasks
 * [ ] Modern non-AGI systems likely already pass versions of it
 * [ ] Humans cannot pass it
 * [ ] It was designed for older AI systems that are unlike today’s
 
 What is the clearest advantage of using "transformative AI" as a definition compared to AGI?
 * [ ] The transformer architecture is the dominant deep learning architecture.
-* [ ] The concept of a societal transition is easier to understand than general intelligence
+* [x] The concept of a societal transition is easier to understand than general intelligence
 * [ ] It focuses on clear real-world impacts rather than intrinsic system properties
 * [ ] The technological revolutions provide historical precedents, but not so much for AGI
 * [ ] It avoids anthropomorphizing AI systems
