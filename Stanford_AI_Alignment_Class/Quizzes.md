@@ -5,7 +5,7 @@
 Which of the following is NOT a reason that forecasting AI capabilities can be useful?
 * [ ] To help predict when specific AI capabilities will arise
 * [ ] To stimulate further research into AI safety
-* [ ] To predict the exact architecture of future AI systems
+* [x] To predict the exact architecture of future AI systems
 * [ ] To allow policymakers to make informed decisions about AI regulation
 * [ ] To mitigate potential risks from advanced AI systems
 
@@ -35,7 +35,7 @@ What does the "foom" debate refer to?
 * [ ] The chance of catastrophe from TAI-like systems
 
 How do "scaling laws" help enable predicting future AI capabilities?
-* [ ] To strongly relate training loss and computational resources
+* [x] To strongly relate training loss and computational resources
 * [ ] They provide theoretical upper bounds on AI model sizes
 * [ ] They model how hardware efficiency improves over time
 * [ ] They help identify new algorithms and architectures
@@ -45,7 +45,7 @@ What phenomenon poses a challenge to predicting capabilities from scaling laws?
 * [ ] Algorithmic innovations
 * [ ] AI itself improving AI development
 * [ ] Emergent abilities
-* [ ] All of these answers
+* [x] All of these answers
 
 What approach did the Broken Neural Scaling Laws paper use to try to address the challenge of emergent abilities?
 * [ ] Fitting piecewise functions to capture scaling law discontinuities
@@ -71,3 +71,8 @@ According to the EpochAI survey, how do judgment-based AI forecasts tend to comp
 Reflect on the current state of AI and where it’s going, and write one concrete prediction of something you think AI systems will be capable of that they aren’t yet AND another prediction of what you think they won’t be capable of by the end of this quarter (the final lecture). You won’t be graded on the accuracy of your predictions, though you should aim to be accurate.
 
 Concrete predictions that we can compare at the end of the class.
+
+2/11/25 prediction:
+(+) better emotional intelligence?
+(-) AGI
+
