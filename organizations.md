@@ -14,5 +14,6 @@
 * [Foresight Institute](https://foresight.org/technologies/secure-ai/)
 * [Center for Human-Compatible AI](https://humancompatible.ai/about/)
 * [FAR AI](https://www.youtube.com/@FARAIResearch/videos)
+* [Stanford Institute for Human-Centered Artificial Intelligence (HAI)](https://hai.stanford.edu/)
 
 * [aisafety.com - All I needed](https://www.aisafety.com/map)
