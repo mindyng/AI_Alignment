@@ -22,7 +22,7 @@
 After AI Safety Quest Nav Call:
 
 Resources to Share
-* https://metr.org/ 
+* [https://metr.org/](https://hiring.metr.org/)
 * https://www.aisafety.com/map 
 * https://aigov.world/
 * https://arxiv.org/abs/2408.06292  (Research AI model unexpectedly attempts to modify its own code to extend runtime - Ars Technica)
