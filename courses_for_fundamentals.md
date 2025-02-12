@@ -1,5 +1,4 @@
-* What Alignment org's looking for: Projects:
- - [skills to develop for doing Eval work](https://jobs.lever.co/apolloresearch/f66ef22f-f96a-42cb-ada9-fd48ce0d5fda)
+* [What Eval org, Apollo Reasearch, is looking for](https://jobs.lever.co/apolloresearch/f66ef22f-f96a-42cb-ada9-fd48ce0d5fda)
 
 
 * [AI Safety Fundamentals](https://course.aisafetyfundamentals.com/alignment?session=1)
