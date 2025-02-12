@@ -17,3 +17,18 @@
 * [Stanford Institute for Human-Centered Artificial Intelligence (HAI)](https://hai.stanford.edu/)
 
 * [aisafety.com - All I needed](https://www.aisafety.com/map)
+* https://aigov.world/
+
+After AI Safety Quest Nav Call:
+
+Resources to Share
+https://metr.org/ 
+https://www.aisafety.com/map 
+https://aigov.world/
+https://arxiv.org/abs/2408.06292  (Research AI model unexpectedly attempts to modify its own code to extend runtime - Ars Technica)
+Examples of specification gaming
+https://sparai.org/mentors 
+Zvi writes a whole bunch about nonprofits in AI Safety and elsewhere
+Lots of projects
+Apollo Research
+https://www.matsprogram.org/ 
