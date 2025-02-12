@@ -17,7 +17,7 @@
 * [Stanford Institute for Human-Centered Artificial Intelligence (HAI)](https://hai.stanford.edu/)
 
 * [aisafety.com - All I needed](https://www.aisafety.com/map)
-* https://aigov.world/
+* [https://aigov.world/](AI Gov)
 
 After AI Safety Quest Nav Call:
 
