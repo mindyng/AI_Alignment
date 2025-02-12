@@ -23,16 +23,7 @@ AI Governance -
 * U.S. AI Safety Institute aka AISI
 * National Institue of Standards and Technology aka NIST - **[Paul Christiano](https://www.linkedin.com/in/paul-christiano-5089211bb/)**
 
-After AI Safety Quest Nav Call:
+# Evaluation Org's to Reach Out to After Brushing Up on Fundamentals
 
-Resources to Share
 * [https://metr.org/](https://hiring.metr.org/)
-* https://www.aisafety.com/map 
-* https://aigov.world/
-* https://arxiv.org/abs/2408.06292  (Research AI model unexpectedly attempts to modify its own code to extend runtime - Ars Technica)
-Examples of specification gaming
-* https://sparai.org/mentors 
-Zvi writes a whole bunch about nonprofits in AI Safety and elsewhere
-Lots of projects:
-* Apollo Research
-* https://www.matsprogram.org/ 
+* [Apollo Research](https://www.apolloresearch.ai/)
