@@ -17,7 +17,11 @@
 * [Stanford Institute for Human-Centered Artificial Intelligence (HAI)](https://hai.stanford.edu/)
 
 * [aisafety.com - All I needed](https://www.aisafety.com/map)
-* [https://aigov.world/](AI Gov)
+
+AI Governance -
+* [AI Gov](https://aigov.world/)
+* U.S. AI Safety Institute aka AISI
+* National Institue of Standards and Technology aka NIST - **[Paul Christiano](https://www.linkedin.com/in/paul-christiano-5089211bb/)**
 
 After AI Safety Quest Nav Call:
 
