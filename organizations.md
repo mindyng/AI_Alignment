@@ -20,8 +20,7 @@
 
 AI Governance -
 * [AI Gov](https://aigov.world/)
-* U.S. AI Safety Institute aka AISI
-* National Institue of Standards and Technology aka NIST - **[Paul Christiano](https://www.linkedin.com/in/paul-christiano-5089211bb/)**
+* U.S. AI Safety Institute aka AISI/National Institue of Standards and Technology aka NIST - **[Paul Christiano](https://www.linkedin.com/in/paul-christiano-5089211bb/)**
 
 # Evaluation Org's to Reach Out to After Brushing Up on Fundamentals
 
