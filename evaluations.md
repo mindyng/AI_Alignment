@@ -6,3 +6,4 @@
 * Possibly by the time I get to this paper, it will be outdated :D : [A Judge-free LLM Open-ended Generation Benchmark Based on the Distributional Hypothesis](https://arxiv.org/abs/2502.09316)
 * non-paper explanation of LLM Eval's in private sector and not one of the main-players - [Snorkel: How to Evaluate LLM Performance for Domain-Specific Use Cases](https://www.youtube.com/watch?v=ZHjulqB-4A0)
 * yay! [python coded LLM eval article](https://medium.com/@jeffreyip54/llm-evaluation-metrics-everything-you-need-for-llm-evaluation-6b129157e33c)
+* [LangWatch?](https://docs.langwatch.ai/optimization-studio/evaluating)
