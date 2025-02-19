@@ -8,3 +8,4 @@
 * yay! [python coded LLM eval article](https://medium.com/@jeffreyip54/llm-evaluation-metrics-everything-you-need-for-llm-evaluation-6b129157e33c)
 * [LangWatch?](https://docs.langwatch.ai/optimization-studio/evaluating)
 * [Future of LLM Systems Eval ](https://www.reddit.com/r/LocalLLaMA/comments/18z3ygo/the_future_of_llm_systems_evaluation/)
+* [ArcAGI-Formal Benchmark for AGI Progress](https://arcprize.org/)
