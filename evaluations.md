@@ -4,3 +4,4 @@
 * what needs to be evaluated - [OpenAI's model spec](https://model-spec.openai.com/2025-02-12.html), which includes Stay in Bounds
 * Anthropic Eval publication: [Adding Error Bars to Evals: A Statistical Approach to Language Model Evaluations](https://arxiv.org/abs/2411.00640)
 * Possibly by the time I get to this paper, it will be outdated :D : [A Judge-free LLM Open-ended Generation Benchmark Based on the Distributional Hypothesis](https://arxiv.org/abs/2502.09316)
+* non-paper explanation of LLM Eval's in private sector, but not one of the main-players - [Snorkel: How to Evaluate LLM Performance for Domain-Specific Use Cases](https://www.youtube.com/watch?v=ZHjulqB-4A0)
