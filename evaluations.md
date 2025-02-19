@@ -7,3 +7,4 @@
 * non-paper explanation of LLM Eval's in private sector and not one of the main-players - [Snorkel: How to Evaluate LLM Performance for Domain-Specific Use Cases](https://www.youtube.com/watch?v=ZHjulqB-4A0)
 * yay! [python coded LLM eval article](https://medium.com/@jeffreyip54/llm-evaluation-metrics-everything-you-need-for-llm-evaluation-6b129157e33c)
 * [LangWatch?](https://docs.langwatch.ai/optimization-studio/evaluating)
+* [Future of LLM Systems Eval ](https://www.reddit.com/r/LocalLLaMA/comments/18z3ygo/the_future_of_llm_systems_evaluation/)
