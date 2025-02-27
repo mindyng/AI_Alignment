@@ -10,3 +10,4 @@
 * [Future of LLM Systems Eval ](https://www.reddit.com/r/LocalLLaMA/comments/18z3ygo/the_future_of_llm_systems_evaluation/)
 * [ArcAGI-Formal Benchmark for AGI Progress](https://arcprize.org/)
 * [AI Security Institute (AISI)'s Inspect - An open-source framework for large language model evaluations](https://inspect.ai-safety-institute.org.uk/)
+* [NIST Risk Management Framework](https://csrc.nist.gov/projects/risk-management)
