@@ -14,7 +14,7 @@
 * Groq (private industry) JD for SWE Intern for Model Evaluation Systems:
 
 * Software Engineer, Model Evaluation Systems Intern
-Remote (USA | Ontario, Canada)
+Remote (USA | Ontario, Canada) - 2/28/25
 
 At Groq. We believe in an AI economy powered by human agency. We envision a world where AI is accessible to all, a world that demands processing power that is better, faster, and more affordable than is available today. AI applications are currently constrained by the limitations of the Graphics Processing Unit (GPU), a technology originally developed for the gaming market and soon to become the weakest link in the AI economy.
 
