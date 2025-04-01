@@ -8,3 +8,5 @@
   * [Author with LI connections to reach out to](https://www.linkedin.com/in/wentworthjohn/)
 * [ ] [How to Get Into Independent Research on Alignment/Agency](https://www.lesswrong.com/posts/P3Yt66Wh5g7SbkKuT/how-to-get-into-independent-research-on-alignment-agency)
 * [ ] [Code Implementation of LLM Guardrail](https://github.com/mindyng/GuardReasoner)
+* [ ] <img width="903" alt="Screenshot 2025-02-13 at 10 51 16 AM" src="https://github.com/user-attachments/assets/b94f3f5a-802d-4c61-9f45-f50a71282abb" />
+
