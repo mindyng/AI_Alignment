@@ -1,5 +1,7 @@
 * famous paper: ["A Survey on Evaluation of Large Language Models"](https://arxiv.org/abs/2307.03109) [repo](https://github.com/MLGroupJLU/LLM-eval-survey)
-* [OpenAI Evals](https://github.com/openai/evals)
+* OpenAI Evals
+  * [repo](https://github.com/openai/evals)
+  * [platform](https://platform.openai.com/docs/guides/evals)
 * [HuggingFace Eval Guide](https://github.com/huggingface/evaluation-guidebook)
 * [Eugene Yan Evals blog post](https://eugeneyan.com/writing/evals/)
 * cool [LLM Eval tool](https://eugeneyan.com/writing/llm-evaluators/) based off of [Anthropic paper: Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)
