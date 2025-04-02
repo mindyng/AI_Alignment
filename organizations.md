@@ -1,9 +1,8 @@
 * [Anthropic Research Team: Societal Impact, Alignment, Interpretability](https://www.anthropic.com/research)
-* [Center for AI Safety](https://www.safe.ai/careers)
-* [Future of Life Institute](https://futureoflife.org/)
-* [Alignment Research Center](https://www.alignment.org/)
+
+
 * Practically Seeing the Reason Why by Jail Breaking with [Gray Swan Arena](https://app.grayswan.ai/arena)
-* [Machine Intelligence Research Institute](https://intelligence.org/get-involved/)
+
 * [Special Competitive Studies Project](https://www.scsp.ai/)
 * [80,000 Hours](https://80000hours.org)
   * https://80000hours.org/podcast/episodes/ajeya-cotra-accidentally-teaching-ai-to-deceive-us/
