@@ -9,10 +9,10 @@
   * https://80000hours.org/podcast/episodes/ajeya-cotra-accidentally-teaching-ai-to-deceive-us/
 * [Center for Humane Technology](https://www.humanetech.com/)
 
-### AI Governance
-* [AI Gov](https://aigov.world/)
-* U.S. AI Safety Institute aka AISI/National Institue of Standards and Technology aka NIST - **[Paul Christiano](https://www.linkedin.com/in/paul-christiano-5089211bb/)**
-
 ### Evaluation Org's to Reach Out to After Brushing Up on Fundamentals
 * [https://metr.org/](https://hiring.metr.org/)
 * [Apollo Research](https://www.apolloresearch.ai/)
+  
+### AI Governance
+* [AI Gov](https://aigov.world/)
+* U.S. AI Safety Institute aka AISI/National Institue of Standards and Technology aka NIST - **[Paul Christiano](https://www.linkedin.com/in/paul-christiano-5089211bb/)**
