@@ -16,7 +16,7 @@
 * [FAR AI](https://www.youtube.com/@FARAIResearch/videos)
 * [Stanford Institute for Human-Centered Artificial Intelligence (HAI)](https://hai.stanford.edu/)
 
-* [aisafety.com - All I needed](https://www.aisafety.com/map)
+* [aisafety.com - All I possibly need](https://www.aisafety.com/map)
 
 AI Governance -
 * [AI Gov](https://aigov.world/)
