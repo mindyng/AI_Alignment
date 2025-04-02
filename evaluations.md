@@ -1,7 +1,11 @@
-* cool [LLM Eval tool](https://eugeneyan.com/writing/llm-evaluators/) based off of [Anthropic paper: Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)
 * famous paper: ["A Survey on Evaluation of Large Language Models"](https://arxiv.org/abs/2307.03109) [repo](https://github.com/MLGroupJLU/LLM-eval-survey)
+* [OpenAI Evals](https://github.com/openai/evals)
 * [HuggingFace Eval Guide](https://github.com/huggingface/evaluation-guidebook)
+* [Eugene Yan Evals blog post](https://eugeneyan.com/writing/evals/)
+* cool [LLM Eval tool](https://eugeneyan.com/writing/llm-evaluators/) based off of [Anthropic paper: Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)
 * what needs to be evaluated - [OpenAI's model spec](https://model-spec.openai.com/2025-02-12.html), which includes Stay in Bounds
+
+
 * Anthropic Eval publication: [Adding Error Bars to Evals: A Statistical Approach to Language Model Evaluations](https://arxiv.org/abs/2411.00640)
 * Possibly by the time I get to this paper, it will be outdated :D : [A Judge-free LLM Open-ended Generation Benchmark Based on the Distributional Hypothesis](https://arxiv.org/abs/2502.09316)
 * non-paper explanation of LLM Eval's in private sector and not one of the main-players - [Snorkel: How to Evaluate LLM Performance for Domain-Specific Use Cases](https://www.youtube.com/watch?v=ZHjulqB-4A0)
@@ -11,6 +15,7 @@
 * [ArcAGI-Formal Benchmark for AGI Progress](https://arcprize.org/)
 * [AI Security Institute (AISI)'s Inspect - An open-source framework for large language model evaluations](https://inspect.ai-safety-institute.org.uk/)
 * [NIST Risk Management Framework](https://csrc.nist.gov/projects/risk-management)
+* [ ] [Code Implementation of LLM Guardrail](https://github.com/mindyng/GuardReasoner) -- does not seem to have much traction
 * Groq (private industry) JD for SWE Intern for Model Evaluation Systems:
 
 * Software Engineer, Model Evaluation Systems Intern
