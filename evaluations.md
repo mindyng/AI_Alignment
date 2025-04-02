@@ -4,6 +4,7 @@
   * [platform](https://platform.openai.com/docs/guides/evals)
 * [HuggingFace Eval Guide](https://github.com/huggingface/evaluation-guidebook)
 * [Eugene Yan Evals blog post](https://eugeneyan.com/writing/evals/)
+* [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval?tab=readme-ov-file#quick-start) - automatic evaluator for instruction-following language models. Human-validated, high-quality, cheap, and fast
 * cool [LLM Eval tool](https://eugeneyan.com/writing/llm-evaluators/) based off of [Anthropic paper: Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)
 * what needs to be evaluated - [OpenAI's model spec](https://model-spec.openai.com/2025-02-12.html), which includes Stay in Bounds
 
