@@ -1,4 +1,5 @@
 * famous paper: ["A Survey on Evaluation of Large Language Models"](https://arxiv.org/abs/2307.03109) [repo](https://github.com/MLGroupJLU/LLM-eval-survey)
+* [Anthropic Evals](https://www.anthropic.com/research/statistical-approach-to-model-evals)
 * OpenAI Evals
   * [repo](https://github.com/openai/evals)
   * [platform](https://platform.openai.com/docs/guides/evals)
