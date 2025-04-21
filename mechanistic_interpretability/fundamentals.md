@@ -1,0 +1,7 @@
+1. [Barebones Pre-req's](https://www.neelnanda.io/mechanistic-interpretability/prereqs)
+2. [Neel Nanda's Updated Quickstart Guide 2023](https://apartresearch.com/news/updated-quickstart-guide-for-mechanistic-interpretability)
+3. [Neel Nanda's Get Started](https://www.neelnanda.io/mechanistic-interpretability/getting-started)
+4. [Interpretable ML - 2019](https://christophm.github.io/interpretable-ml-book/)
+5. [Survey of LLM's](https://arxiv.org/abs/2303.18223)
+6. [ARENA Fundamentals](https://arena-chapter0-fundamentals.streamlit.app/)
+7. [ARENA Transformers from Scratch](https://arena-chapter1-transformer-interp.streamlit.app/[1.1]_Transformer_from_Scratch)
