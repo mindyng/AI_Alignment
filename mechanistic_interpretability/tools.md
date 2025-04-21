@@ -2,4 +2,5 @@
    * [main demo](https://colab.research.google.com/github/neelnanda-io/TransformerLens/blob/main/demos/Main_Demo.ipynb#scrollTo=ymm1D_Nrl-Aq)
    * [gpt-2 small token visualizer](GPT2-small-Token-Visualizer)
 2. [https://nnsight.net/](https://nnsight.net/)
-3. [PySvelte - integrate visualization into the deep learning research workflow | unsupported since 2021](https://github.com/anthropics/PySvelte)
+3. [Goodfire-uses Natural Language to ID features in model](https://docs.goodfire.ai/sdk-reference/features)
+4. [PySvelte - integrate visualization into the deep learning research workflow | unsupported since 2021](https://github.com/anthropics/PySvelte)
