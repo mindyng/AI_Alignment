@@ -146,3 +146,60 @@ A well-known methodology for enhancing the performance and efficiency of artific
 Human preferences may be what a user of chatbot/LLM's intended goal is as well as be helpful, honest and harmless (Anthropic).
 
 For humans to be happy-- fundamental human rights are practiced (U.S. Constitution)
+
+### 2.2 Intelligence and Goals
+
+Which of the following statements is true about optimal RL policies in fully observable environments?
+* [ ] Optimal policies in RL statistically tend to reduce the number of options available.
+* [ ] All optimal policies in RL always try to maximize the number of options available.
+* [ ] The more options an RL policy has available, the less statistically optimal it is.
+* [x] Optimal policies in RL have a statistical tendency to having more options available.
+
+Which of the following statements is not required for the orthogonality thesis?
+* [ ] Intelligent agents have goals by definition.
+* [ ] We can equate cognitive resourcefulness with power
+* [x] Motivation is linked to intelligence
+* [ ] It is easier to create intelligent problem solving skills than to encode human-like values
+
+Which one is not an instrumental convergent goal of intelligent agents, according to the instrumental convergence paradigm?
+* [x] Maintain the same physical form
+* [ ] Continue operation in the future
+* [ ] Maintain unaltered final goal
+* [ ] Acquiring more resources
+
+Which characteristic of large language models increases with the size of the language model?
+* [ ] Capability to model human generated language in an unbiased way
+* [ ] Tendency to rhyme more in generated text
+* [x] Tendency to repeat and enforce human inputs and opinions
+* [ ] Tendency to follow christian beliefs
+
+[Quiz Reading] 
+According to McKay 2023, which was NOT one of the categories of flaws with RLHF?
+* [ ] Challenges in accurately learning a reward model from human feedback
+* [ ] Challenges in supervised fine-tuning of the AI policy
+* [x] Challenges in optimizing the AI policy using the imperfect reward model.
+* [ ] Challenges in collecting quality human feedback
+
+
+[Quiz Reading] 
+According to Ngo 2022, an RL policies goal is defines as…
+* [x] … internal representations of features of environmental outcomes which are strongly correlated with that policy’s estimates of the values of different outcomes.
+* [ ] … feature representations which are strongly correlated with value estimates even when controlling for other features. 
+* [ ] … feature representations which become much less correlated with values when controlling for other features.
+* [ ] None of the above.
+
+[Free Response] 
+Answer the following questions with your thoughts and opinions:
+What internal goals do you think any intelligent agent has?
+depends on how it was trained
+
+Are these goals different from human goals (If so, how?)? 
+difference may need to be measured via semantic similarity via encoding human values and model goals into vector embeddings
+
+How might the goals of humanity collide with the ones from the general intelligent agent? 
+If the general intelligent agent is not honest, harmful and not helpful, which help progress of humanity then 
+goals between the two will be divergent.
+
+If yes, how must we change the goals of the intelligent agent? Would it still be intelligent?
+We must change the goals of the intelligent agent via RL, but I propose mechanistic interpretability being better way forward because you change features versus retraining the whole model. Need to define intelligence
+and make sure re-steering the model via changing feature weights would align with intelligence definition.
