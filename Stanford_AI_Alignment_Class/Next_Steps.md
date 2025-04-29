@@ -2,9 +2,10 @@
 
 ### [Dr. Andrew Ng Career Advice - 2019]([https://www.youtube.com/watch?v=733m6qBH-jI&t=1858s](https://youtu.be/733m6qBH-jI?t=1796))
 
-* Do Important Work
-A. How to get a position
-B. Selecting a position
+# Do Important Work
+
+## How to get a position
+
 1. What do recruiters look for?
 * technical skills (theory, tests)
 * meaningful work (apply theory in meaningful setting)
@@ -14,7 +15,8 @@ B. Selecting a position
 * build deep, relevant project
 * Saturday morning problem - can read paper/work on research/open source/fun (no short-term reward), but be consistent over time and will be MUCH better
 
-Selecting a Position:
+## Selecting a Position:
+
 1. Work with great people and great projects (read research papers, etc.)
 2. Focus on the team (10-30 persons); they will influence you the most -- learning, teaching me, hard-working
 3. Manager
