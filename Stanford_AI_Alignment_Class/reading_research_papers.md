@@ -41,6 +41,7 @@ Third pass involves _virtually reimplementing the paper_ .
 ___
 
 * [Stanford CS230: Deep Learning | Autumn 2018 | Lecture 8 - Career Advice / Reading Research Papers | Prod. Andrew Ng](https://www.youtube.com/watch?v=733m6qBH-jI)
+  
 ### area want to be good at (e.g. mech interp/LLM evals/CoT)
 * compile list of papers (research papers on Archiv, Medium posts, rare GitHub), start with 5 papers, skipping around a list
 read 10% (paper #2 is dud -> forget it). Paper #3 is similar and spend lot of time to read and understand (6 citations) and flush out idea of paper 4...
@@ -67,7 +68,10 @@ read 10% (paper #2 is dud -> forget it). Paper #3 is similar and spend lot of ti
 * dl and run open-source code
 * re-implement it from scratch
 
-## Longer-Term Advice
+## Long-Term Advice
 * learn steadily; not focused intense activity; well-known from pedagogy; solid result- space repetition; better long-term attn
 
--- sources for papers: Twitter, ML subreddit (lot of noise), NIPS, ICML, ICLR, like-minded people
+## Sources for papers 
+* Twitter
+* ML subreddit (lot of noise)
+* NIPS, ICML, ICLR, like-minded people
