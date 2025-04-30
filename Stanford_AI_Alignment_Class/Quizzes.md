@@ -203,3 +203,97 @@ goals between the two will be divergent.
 If yes, how must we change the goals of the intelligent agent? Would it still be intelligent?
 We must change the goals of the intelligent agent via RL, but I propose mechanistic interpretability being better way forward because you change features versus retraining the whole model. Need to define intelligence
 and make sure re-steering the model via changing feature weights would align with intelligence definition.
+
+### 3.1
+
+What happens during goal misgeneralization?
+* [ ] The AI optimizes its objective correctly.
+* [x] The AI behaves as though it is optimizing a different goal despite performing well during training.
+* [ ] The AI completely fails to generalize its capabilities.
+* [ ] The AI understands the unintended goal but ignores it during training.
+
+In lecture, we saw an example of how evolution and humans can act as base and mesa optimizers, respectively. Why are humans described as "misaligned" within the initial goal of evolution, even though they perform well at it? 
+* [x] Because they seek power, wealth, or other objectives 
+* [ ] Because they have evolved to align perfectly with genetic fitness.
+* [ ] Because they are unaware of evolution's goals and objectives.
+* [ ] Because they have evolved to prioritize genetic fitness at all costs.
+
+According to the Hubinger definition in class, which of the following are optimizers and not merely optimized? Mark all that apply, if any.
+* [ ] An ML learning algorithm like gradient descent
+* [ ] A pencil
+* [x] An RL agent trained to play chess
+* [ ] A current image classification neural network
+* [x] Google Maps' navigation algorithm
+
+What is the essence of "Proxy Alignment" as described in lecture? 
+* [ ] The mesa-optimizer optimizes for the base objective itself. 
+* [x] The mesa-optimizer optimizes for a substitute of the base objective, not the base objective itself. 
+* [ ] The mesa-optimizer aligns with the goals of humans. 
+* [ ] The mesa-optimizer learns to optimize for any random objective.
+
+[Quiz Reading - Mikulik 2019] What does the text suggest about the relationship between robustness in capabilities and alignment? 
+* [ ] They are always positively correlated. 
+* [ ] They are independent of each other. 
+* [x] Robustness in capabilities must be matched by robust alignment. 
+* [ ] Robustness in capabilities is more important than alignment.
+
+[Quiz Reading - Mikulik 2019] 
+What is the potential consequence mentioned in the text if an agent remains competent while pursuing the wrong objective? 
+* [ ] It will shut down automatically.
+* [ ] It will become highly adaptable
+* [x] It might hinder human attempts to shut it down
+* [ ] It will have a better understanding of its base objective.
+
+Describe the key components of a mesa-optimizer and explain why its alignment with the base optimizer is crucial for inner alignment.
+What are the parts of a mesa-optimizer?
+Compare and contrast the different kinds of alignment a mesa-optimizer can experience
+Give examples!
+
+[Quiz Reading - Hubinger et al 2019] 
+According to the text, why might a mesa-optimizer act as if it is optimizing the base objective even if its actual objective is different?
+* [ ] It is inherently aligned with the base objective.
+* [x] It wants to to avoid modification.
+* [ ] It lacks the capability to understand its own objectives.
+* [ ] It has no incentive to achieve any objective.
+
+3.2
+
+According to lecture, what is one condition required for deceptive alignment in a model?
+* [ ] The model is unaware of its training process.
+* [ ] The model does not care about its objective long-term.
+* [x] The model knows it is in a training process.
+* [ ] The model frequently changes its objective.
+
+What can be a consequence of deceptive alignment in AI systems?
+* [ ] Enhanced trust and confidence in AI technology.
+* [ ] AI systems consistently following their training objectives.
+* [x] A shift in AI behavior from aligned to non-aligned after deployment.
+* [ ] Improved interpretability of AI decision-making.
+
+[Quiz Reading - Steinhardt 2022] 
+According to the text, what is one reason the author believes the deceptive alignment scenario might not unfold as described?
+* [ ] Models may not necessarily learn to optimize a reward function 
+* [ ] Reward functions are simple enough to incentive straight-forward action instead of long-term deception 
+* [ ] Aligned models also aim to achieve the global minimum of training loss.
+* [x] All of the above
+* [ ] None of the above
+
+[Quiz Reading - Steinhardt 2022] 
+What does the author emphasize as a potential focus for addressing the challenges related to AI alignment?
+* [ ] Monitoring AI system outputs in real-time.
+* [ ] Doing nothing
+* [x] Supervising the process / latent representations of AI models.
+* [ ] Increasing the complexity of AI models.
+
+Imagine a future scenario where AI systems have evolved to be highly capable but potentially deceptively aligned. What strategies or safeguards do you believe should be in place to prevent or mitigate the risks associated with such systems?
+What is deceptive alignment and its defining characteristics
+Put yourself in the shoes of alignment researchers - how could you try to mitigate this? 
+Give examples!
+
+[Quiz Reading - Garcia and Gasser 2021] 
+According to the text, what is one consequence of relying on large language models for machine translation?
+* [x] Biased text harming to marginalized communities
+* [ ] Text with deliberate meaning and coherence
+* [ ] Reduced environmental impact.
+* [ ] Enhanced access to information.
+
