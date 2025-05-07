@@ -20,6 +20,6 @@
 * [ArcAGI-Formal Benchmark for AGI Progress](https://arcprize.org/)
 * [AI Security Institute (AISI)'s Inspect - An open-source framework for large language model evaluations](https://inspect.ai-safety-institute.org.uk/)
 * [NIST Risk Management Framework](https://csrc.nist.gov/projects/risk-management)
-* [ ] [Code Implementation of LLM Guardrail](https://github.com/mindyng/GuardReasoner) -- does not seem to have much traction
+* [Code Implementation of LLM Guardrail](https://github.com/mindyng/GuardReasoner) -- does not seem to have much traction
 * most reliable LLM Leaderboard according to [Andrej Karpathy](https://x.com/karpathy/status/1917546757929722115) (May 2025)
-* [Arize - A practical guide to building and implementing evaluation strategies for AI applications](https://arize.com/llm-evaluation)
+* [Arize - A practical guide to building and implementing evaluation strategies for AI applications](https://arize.com/llm-evaluation) - very good industry best practices
