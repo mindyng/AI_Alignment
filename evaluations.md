@@ -22,3 +22,4 @@
 * [NIST Risk Management Framework](https://csrc.nist.gov/projects/risk-management)
 * [ ] [Code Implementation of LLM Guardrail](https://github.com/mindyng/GuardReasoner) -- does not seem to have much traction
 * most reliable LLM Leaderboard according to [Andrej Karpathy](https://x.com/karpathy/status/1917546757929722115) (May 2025)
+* [Arize - A practical guide to building and implementing evaluation strategies for AI applications](https://arize.com/llm-evaluation)
