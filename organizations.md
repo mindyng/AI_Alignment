@@ -9,6 +9,11 @@
   * https://80000hours.org/podcast/episodes/ajeya-cotra-accidentally-teaching-ai-to-deceive-us/
 * [Center for Humane Technology](https://www.humanetech.com/)
 
+### Mentoring
+* [Supervised Program for Alignment Research](https://sparai.org/)
+* [AI Safety Camp](https://www.aisafety.camp/home)
+* [ML Alignment and Theory Scholars - MATS](https://www.matsprogram.org/faqs)
+
 ### Evaluation Org's to Reach Out to After Brushing Up on Fundamentals
 * [https://metr.org/](https://hiring.metr.org/)
 * [Apollo Research](https://www.apolloresearch.ai/)
