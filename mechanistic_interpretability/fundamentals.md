@@ -5,7 +5,7 @@
 5. [Survey of LLM's](https://arxiv.org/abs/2303.18223)
 6. [ARENA Fundamentals](https://arena-chapter0-fundamentals.streamlit.app/)
 7. [ARENA Transformers from Scratch](https://arena-chapter1-transformer-interp.streamlit.app/[1.1]_Transformer_from_Scratch)
-8. [Notes from The Utility of Interpretability](https://www.youtube.com/watch?v=9YQW2mH9FyA)
+8. [Notes from The Utility of Interpretability Latent Space Podcast](https://www.youtube.com/watch?v=9YQW2mH9FyA)
 
 0-80% for Mech Interp
 - Superposition - bunch of things crammed into neurons
