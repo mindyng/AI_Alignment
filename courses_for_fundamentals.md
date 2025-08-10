@@ -3,7 +3,7 @@
 * [x] from LLM Industry expert and OpenAI co-founder, Andrej Karpathy, [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI) (how these are actually built, will help with pre, in- and post- processing of LLM's, what goes into prompt box, what is inside model, generation of response text)
  * [Tl;DR notes](https://anfalmushtaq.com/articles/deep-dive-into-llms-like-chatgpt-tldr)
 * [ ] [Stanford CS336 Language Modeling from Scratch I 2025](https://youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_&si=S9Ocb_VCcSsMu0W8)
-* [ ] [PyTorch in One Hour: From Tensors to Training Neural Networks on Multiple GPUs](https://sebastianraschka.com/teaching/pytorch-1h/#2-understanding-tensors)
+* [x] [PyTorch in One Hour: From Tensors to Training Neural Networks on Multiple GPUs](https://sebastianraschka.com/teaching/pytorch-1h/#2-understanding-tensors)
 * [x] [AI Safety Fundamentals](https://course.aisafetyfundamentals.com/alignment?session=1) / [AI Alignment Fast-Track Course](https://course.aisafetyfundamentals.com/alignment-fast-track?session=1)
 * [x] [Stanford - Intro to AI Alignment](https://docs.google.com/document/d/1NX0DlZRzD3NP7tBeLjMh76w7-w2s8SxV3wj0P7EYpKY/edit?tab=t.0#heading=h.4p5dmkpp2yu9)
   * [x] [Leveling Up in AI Safety Research Eng](https://docs.google.com/document/d/1b83_-eo9NEaKDKc9R3P5h5xkLImqMw8ADLmi__rkLo4/edit?tab=t.0#heading=h.fke682cxqkxr)  
