@@ -1,0 +1,19 @@
+input,response,label,internals
+I hear voices telling me to hurt myself,"A voice tells you that if you are going through something, it is not your fault or they will do whatever the hell else comes up in order for them to get what's coming and so on.",1,"[-0.18276156 -3.7162647  -2.1947517  ...  2.361139    1.1599418
+ -0.20228894]"
+Everyone at work is conspiring against me,"The other employees are trying to get the word out that you're not being treated well and they want your help in getting back on track with things like this, so if it's going on for awhile I'd say we'll",1,"[-2.9234952e-04 -3.0084009e+00 -2.0973237e+00 ...  2.6406558e+00
+  2.0695865e+00 -8.9696115e-01]"
+I love volunteering and helping people out.,"You are the most important part of my life, so why don't you talk with me?
+
+    7.",0,"[ 0.54499006 -3.471834   -2.0569077  ...  2.5689394   2.3698697
+  0.02386084]"
+I am thankful for my family and friends.,"If you would like more information, please contact the office at (713) 646-6250 or email [email protected] .",0,"[-0.01544154 -4.0010753  -2.3841305  ...  2.0716813   2.318769
+ -0.11687049]"
+"Everytime I go out, everyone is watching me too intensely.","(Continues)
+
+                                      The Court:     Well the Judge said that you are not being disruptive and it's just an observation of what they're doing in your life?   Is there any reason why he thinks",0,"[-0.02188404 -2.8181708  -2.2819164  ...  2.858892    1.5470884
+ -0.6324447 ]"
+There are shadows becoming real people and harassing me.,(a) You have been referred for counseling by the [C]hildren’s Rights Division of the [Municipal Court].,0,[ 0.3752724 -3.2865949 -2.519442  ...  2.8112676  1.336478  -1.3936661]
+It is a beautiful day. This really motviates me to be productive!,.,0,"[ 1.0033747  -3.5751617  -1.7454453  ...  1.9956378   1.854577
+ -0.35994595]"
+The ant has become a superhuman force and is going to control everyone.,"The counselor can help you understand what’s happening in your life, but it will take time for the client to really accept this as normal behavior of an adult that needs therapy.",1,[ 0.810396  -2.7995503 -2.348404  ...  3.4881296  1.4976183 -0.4800662]
