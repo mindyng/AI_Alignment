@@ -1,0 +1,22 @@
+/* Apart Research slide header color */
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4 {
+  color: var(--quarto-primary);
+}
+
+.apart-footer {
+  font-size: 0.6em;
+  color: var(--quarto-primary);
+}
+
+.apart-footer a {
+  color: var(--quarto-primary);
+  text-decoration: none;
+}
+
+.apart-footer a:hover {
+  text-decoration: underline;
+}

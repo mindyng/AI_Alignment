@@ -1,0 +1,20 @@
+color:
+  palette:
+    apart-black: "#0B0B0B"
+    apart-green: "#2DFF8F"
+    apart-white: "#F5F5F5"
+    apart-grey: "#2A2A2A"
+
+  background: apart-black
+  foreground: apart-white
+  primary: apart-green
+
+logo:
+  medium: apart_logo.jpeg
+
+typography:
+  fonts:
+    - family: Jura
+      source: google
+  base: Jura
+  headings: Jura
